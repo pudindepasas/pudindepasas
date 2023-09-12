@@ -10,4 +10,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pudindepasas&show_icons=true&locale=en&layout=compact" alt="pudindepasas" /></p>
 
 <img align="left" src="https://i.pinimg.com/originals/f5/96/43/f59643e72c23f4fd50669d5358796dac.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
-<img align="left" src="https://64.media.tumblr.com/a7b49e9f4fd94b1eee466de65b478ce8/bed9b3923804b26f-de/s500x750/b5029db7dd40ac5b94e8b50438c3c74bf2ab410d.gifv" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="left" src="https://pa1.aminoapps.com/6671/f2059718bbb1994a9f1bcd6992dcd9b75dbb9f4b_hq.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
